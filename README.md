@@ -1,4 +1,4 @@
-I am a JavaScript and Python developer. So far I have the following tools in my toolkit:
+I am a Front End developer. So far I have the following tools in my toolkit:
 
 languages:  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
