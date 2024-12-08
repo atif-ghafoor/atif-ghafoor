@@ -18,8 +18,8 @@ Other Tools:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 Reach Me Through: 
-[![Instagram](https://img.shields.io/badge/Instagram-8257e5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atif_gfr)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atif-ghafoor-8a7676331/)  
+[![Instagram](https://img.shields.io/badge/Instagram-8257e5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atif_gfr)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](atifghafoor377@gmail.com)
 
 
